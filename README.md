@@ -70,6 +70,21 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 # APP-ERP-Enterprise-Resource-Planning--PHP-CodeIgniter
 ERP web application built with php and CodeIgniter 4 for managing business operations.
 >>>>>>> cd20e12d52a211f5eefcbb66c1f25bb51ce5bb7b
->>>>>>>
+>>>>>>> ScreenShoot web
 >>>>>><img width="1355" height="706" alt="image" src="https://github.com/user-attachments/assets/733d58b3-6006-41ad-bee7-41b06eb89968" />
+<img width="1356" height="713" alt="image" src="https://github.com/user-attachments/assets/3a8678c9-355f-4321-a76b-9e724c4cc11f" />
+<img width="1365" height="711" alt="image" src="https://github.com/user-attachments/assets/269cecf2-93ee-44f4-a403-54f44c18dbbb" />
+<img width="1356" height="713" alt="image" src="https://github.com/user-attachments/assets/47dc8282-e9a1-4202-9417-054237778fe6" />
+<img width="1365" height="712" alt="image" src="https://github.com/user-attachments/assets/cf95ed25-73ef-41bd-ab9f-795b5a3bc784" />
+<img width="1365" height="709" alt="image" src="https://github.com/user-attachments/assets/9e660957-9e61-44ab-b860-be8d13bdece2" />
+<img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/46806a79-e7f6-43b6-8e7b-4da4a76d76c2" />
+<img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/a67ebf30-2321-483f-a778-e84aee9d4620" />
+<img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/51ef5e45-9811-4446-8dc3-eb01182b9be8" />
+
+
+
+
+
+
+
 
