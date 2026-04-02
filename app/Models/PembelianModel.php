@@ -1,0 +1,28 @@
+<?php
+
+namespace App\Models;
+
+use CodeIgniter\Model;
+
+
+class PembelianModel extends Model
+{
+    protected $table            = 'tblpembelian';
+    protected $primaryKey       = 'id_beli';
+    protected $useAutoIncrement = true;
+    protected $returnType       = 'array';
+    protected $useSoftDeletes   = false;
+    protected $protectFields    = true;
+    protected $allowedFields = ['id_beli','tgl_beli', 'id_supplier', 'no_faktur', 'kd_barang', 'hrg_beli', 'jlh_beli'];
+
+
+
+    // Dates
+    protected $useTimestamps = false;
+    protected $dateFormat    = 'datetime';
+    protected $createdField  = 'created_at';
+    protected $updatedField  = 'updated_at';
+    protected $deletedField  = 'deleted_at';
+
+   
+}
