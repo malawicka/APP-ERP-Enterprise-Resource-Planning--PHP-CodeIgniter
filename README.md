@@ -70,3 +70,6 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 # APP-ERP-Enterprise-Resource-Planning--PHP-CodeIgniter
 ERP web application built with php and CodeIgniter 4 for managing business operations.
 >>>>>>> cd20e12d52a211f5eefcbb66c1f25bb51ce5bb7b
+>>>>>>>
+>>>>>><img width="1355" height="706" alt="image" src="https://github.com/user-attachments/assets/733d58b3-6006-41ad-bee7-41b06eb89968" />
+
